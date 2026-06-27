@@ -1,0 +1,16 @@
+[
+  {
+    "type": "skill",
+    "name": "singx-security-hardening",
+    "description": "Nginx安全加固一站式技能 — 安全头、路径拦截、IP封禁、www重定向、缓存策略。含一键部署脚本。",
+    "version": "1.0.0",
+    "category": "web-development"
+  },
+  {
+    "type": "skill",
+    "name": "singx-seo-specialist",
+    "description": "SingX SEO自动化 — 客户站一键补全SEO标签，含sitemap/robots/canonical/OG/hreflang/JSON-LD/IndexNow。",
+    "version": "1.0.0",
+    "category": "seo"
+  }
+]
